@@ -12,7 +12,7 @@ Hey there!👋
 
 <h3 align="center"> 💻 Some of My Skills 💻  </h3>
 
-<div align="center">
+<div align="center mt-1 mb-2">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" title="vscode"/>     
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="html5"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="javaScript"/> 
