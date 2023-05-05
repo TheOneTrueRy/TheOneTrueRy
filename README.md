@@ -41,6 +41,9 @@ Hey there!👋
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.Js"/>
 </div>
 
+<div>
+</div>
+
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theonetruery&show_icons=true&theme=dark&locale=en" alt="theonetruery" width="40%"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonetruery&theme=dark" alt="theonetruery" width="40%"/></p>
 </div>
@@ -50,7 +53,7 @@ Hey there!👋
 </div>
 
 <div align="center">
- <h3>My Socials</h3>
+ <h2>My Socials</h2>
  <div align="center">
   <a href="https://www.twitch.tv/TheOneTrueRy" target="_blank">
    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" title="Twitch"/>
