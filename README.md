@@ -6,9 +6,6 @@ Hey there!👋
 <h1>I'm Ryan Wittman. You can call me Ry.</h1>
 </div>
 
-<div>
- 
-</div>
 
 <h2 align="center"> 💻 Some of My Skills 💻  </h2>
 
@@ -39,9 +36,6 @@ Hey there!👋
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.Js"/>
-</div>
-
-<div>
 </div>
 
 <div align="center">
