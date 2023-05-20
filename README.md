@@ -39,7 +39,7 @@ Hey there!👋
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theonetruery&show_icons=true&theme=dark&locale=en" alt="theonetruery" width="40%"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonetruery&theme=dark" alt="theonetruery" width="40%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theonetruery&show_icons=true&theme=dark&locale=en" alt="theonetruery" width="40%"/>&nbsp;&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=TheOneTrueRy&theme=dark&exclude_days=Sun%2CSat" alt="theonetruery" width="40%"/></p>
 </div>
 
 <div align="center">
