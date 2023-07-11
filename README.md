@@ -36,14 +36,14 @@ Hey there!👋
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.Js"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" alt="Unity" />
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt="Unreal Engine" />
 </div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theonetruery&show_icons=true&theme=dark&locale=en" alt="theonetruery" width="40%"/>&nbsp;&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=TheOneTrueRy&theme=dark&exclude_days=Sun%2CSat" alt="theonetruery" width="40%"/></p>
-</div>
+<br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theonetruery&show_icons=true&theme=dark&locale=en&layout=compact&hide=CSS" alt="theonetruery" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theonetruery&show_icons=true&theme=dark&locale=en" alt="theonetruery" width="40%"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theonetruery&show_icons=true&theme=dark&locale=en&layout=compact&hide=CSS" alt="theonetruery" width="30.4%"/></p>
 </div>
 
 <div align="center">
