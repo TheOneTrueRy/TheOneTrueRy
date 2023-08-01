@@ -29,15 +29,14 @@ Hey there!👋
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL"/>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" title="Premiere"/>
 <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2.svg?style=for-the-badge&logo=Affinity-Photo&logoColor=white" title="Affinity"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React"/>
 </div>
 
 <h2 align="center">🧠 Currently Learning 📑</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" title="SalesForce"/>
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.Js"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" alt="Unity" />
-<img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt="Unreal Engine" />
 </div>
 
 <br/>
