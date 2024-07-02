@@ -1,13 +1,14 @@
 <h1 align="center">
-Hey there!👋
+Hey there!👋<br/>
+I'm Ryan Wittman. You can call me Ry.
 </h1>
 
 <div align="center">
-<h1>I'm Ryan Wittman. You can call me Ry.</h1>
+
 </div>
 
 
-<h2 align="center"> 💻 Some of My Skills 💻  </h2>
+<h2 align="center"> 💻 Some of My Skills & Stats 💻  </h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" title="vscode"/>     
@@ -28,13 +29,7 @@ Hey there!👋
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL"/>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React"/>
-</div>
-
-<h2 align="center">🧠 Currently Learning 📑</h2>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" title="SalesForce"/>
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.Js"/>
 </div>
 
 <br/>
